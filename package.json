@@ -1,0 +1,24 @@
+{
+  "name": "xplushop.docs",
+  "version": "1.0.0",
+  "description": "XPLUSHOP Docs - Setup guides, API reference &amp; rank boosting workflow by Luxfy Limited",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xplushopxyz/xplushop.docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/xplushopxyz/xplushop.docs/issues"
+  },
+  "homepage": "https://github.com/xplushopxyz/xplushop.docs#readme",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
